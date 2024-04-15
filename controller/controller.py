@@ -5,6 +5,7 @@ class DroneController:
 
     def take_off(self):
         # Send command to take off
+        print("TAKE OFF")
         pass
 
     def land(self):
